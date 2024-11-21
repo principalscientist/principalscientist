@@ -5,6 +5,8 @@
 * BLACK ERG Ambassador, Intuitive Surgical
 * University Hiring Ambassador, Intuitive Surgical
 * Speaker at the Women in Engineering Conference, San Jose University (https://2024.siliconvalleywie.org/)
+![image](https://github.com/principalscientist/principalscientist/blob/achievements/speakerconference2.jpg)
+  
 ### 2022
 * Innovation Action Team Scholar, CU Boulder
 * Graduate Diversity Award, CU Boulder
