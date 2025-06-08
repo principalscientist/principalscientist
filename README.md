@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Monique Reid
 #### Mechanical Engineer to Product Data Analyst
-![Product Data Analyst](https://github.com/principalscientist/principalscientist/blob/main/Orange%20And%20Blue%20Modern%20Professional%20Construction%20Banner%20Design.png.PNG)
 
 ### About Me
 I am a driven and articulate engineer interested in product analytics. With a strong medical device mechanical design and manufacturing background, I aim to apply these skills to derive insights from big data. 
