@@ -11,6 +11,7 @@ I am a driven and articulate engineer interested in product analytics. With a st
 * Soft: Communication/Leadership/Team Player
 
 ### Experience 
+* Clinical Development Engineer
 * Product Data Analyst
 * Mechanical Design Engineering
 * Mechanical Manufacturing Engineering
@@ -19,7 +20,7 @@ I am a driven and articulate engineer interested in product analytics. With a st
 
 ### More About Me...
 * 🔭 I’m currently working on building my GitHub portfolio. 
-* 🌱 I’m currently learning Unsupervised ML models 
+* 🌱 I’m currently learning Supervised ML models.
 * 📫 How to reach me: momoaugust17@gmail.com  
 
 
